@@ -1,0 +1,275 @@
+TAXONNAME,Size,Diet,Mobility,Activity,Schooling,Position
+Abudefduf_notatus,3,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Abudefduf_septemfasciatus,3,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Abudefduf_sordidus,3,Microinvertivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Abudefduf_vaigiensis,3,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Acanthuridae,3,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Acanthurus_achilles,3,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,MedG,Benthic
+Acanthurus_albipectoralis,4,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,MedG,Bentho-Pelagic
+Acanthurus_blochii,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Acanthurus_dussumieri,5,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Acanthurus_guttatus,3,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,LargeG,Benthic
+Acanthurus_leucocheilus,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Acanthurus_lineatus,4,Herbivores Microvores Detritivores,Sedentary,Diurnal,Solitary,Benthic
+Acanthurus_maculiceps,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Acanthurus_mata,5,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,LargeG,Bentho-Pelagic
+Acanthurus_nigricans,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Acanthurus_nigricauda,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Acanthurus_nigrofuscus,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Acanthurus_nigroris,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Acanthurus_olivaceus,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,MedG,Benthic
+Acanthurus_rackliffei,3,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,MedG,Benthic
+Acanthurus_thompsoni,3,Planktivores,Mobile across reefs,Diurnal,MedG,Bentho-Pelagic
+Acanthurus_triostegus,3,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,LargeG,Benthic
+Acanthurus_xanthopterus,5,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,MedG,Benthic
+Aluterus_scriptus,6,Corallivores,Mobile across reefs,Both diurnal and nocturnal,Solitary,Bentho-Pelagic
+Anampses_caeruleopunctatus,4,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Anampses_melanurus,2,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Anampses_meleagrides,3,Microinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Anthias_sp,3,Crustacivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Aphareus_furca,5,Piscivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Bentho-Pelagic
+Apogon_sp,2,Microinvertivores,Sedentary,Nocturnal,SmallG,Bentho-Pelagic
+Apogonidae,2,Microinvertivores,Sedentary,Nocturnal,SmallG,Bentho-Pelagic
+Apolemichthys_griffisi,4,Sessile invertivores,Sedentary,Diurnal,SmallG,Benthic
+Apolemichthys_xanthopunctatus,3,Sessile invertivores,Sedentary,Diurnal,SmallG,Benthic
+Arothron_hispidus,5,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Arothron_meleagris,5,Corallivores,Mobile within reef,Diurnal,Solitary,Benthic
+Aulostomus_chinensis,5,Piscivores,Mobile within reef,Diurnal,Solitary,Bentho-Pelagic
+Balistapus_undulatus,4,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Balistoides_viridescens,5,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Blenniidae,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,Solitary,Benthic
+Bodianus_axillaris,3,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Bodianus_loxozonus,4,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Bodianus_prognathus,3,Microinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Bothus_mancus,4,Piscivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Caesio_teres,4,Planktivores,Mobile across reefs,Diurnal,LargeG,Pelagic
+Caesionidae,4,Planktivores,Mobile across reefs,Diurnal,LargeG,Pelagic
+Calotomus_carolinus,5,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,Solitary,Benthic
+Cantherhines_dumerilii,4,Corallivores,Mobile within reef,Diurnal,Pairing,Benthic
+Cantherhines_pardalis,3,Sessile invertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Canthigaster_amboinensis,3,Sessile invertivores,Sedentary,Diurnal,Solitary,Benthic
+Canthigaster_coronata,2,Sessile invertivores,Sedentary,Diurnal,Solitary,Benthic
+Canthigaster_solandri,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,Solitary,Benthic
+Caracanthus_maculatus,1,Crustacivores,Sedentary,Nocturnal,Solitary,Benthic
+Carangoides_ferdau,5,Piscivores,Mobile across reefs,Both diurnal and nocturnal,MedG,Pelagic
+Carangoides_orthogrammus,5,Piscivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Pelagic
+Caranx_ignobilis,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,Solitary,Pelagic
+Caranx_lugubris,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Pelagic
+Caranx_melampygus,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Pelagic
+Caranx_sexfasciatus,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,MedG,Pelagic
+Carcharhinus_amblyrhynchos,6,Piscivores,Mobile across reefs,Nocturnal,Solitary,Pelagic
+Carcharhinus_melanopterus,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,Solitary,Pelagic
+Centropyge_flavissima,2,Sessile invertivores,Sedentary,Diurnal,Pairing,Benthic
+Centropyge_loricula,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,Pairing,Benthic
+Cephalopholis_argus,5,Piscivores,Sedentary,Both diurnal and nocturnal,Solitary,Benthic
+Cephalopholis_leopardus,3,Crustacivores,Sedentary,Both diurnal and nocturnal,Solitary,Benthic
+Cephalopholis_miniata,4,Piscivores,Sedentary,Both diurnal and nocturnal,Solitary,Benthic
+Cephalopholis_sexmaculata,5,Piscivores,Sedentary,Both diurnal and nocturnal,Solitary,Benthic
+Cephalopholis_spiloparaea,4,Piscivores,Sedentary,Both diurnal and nocturnal,Solitary,Benthic
+Cephalopholis_urodeta,3,Crustacivores,Sedentary,Both diurnal and nocturnal,Solitary,Benthic
+Chaetodon_auriga,3,Corallivores,Sedentary,Diurnal,Pairing,Benthic
+Chaetodon_ephippium,4,Corallivores,Sedentary,Diurnal,Pairing,Benthic
+Chaetodon_kleinii,3,Planktivores,Sedentary,Diurnal,Pairing,Bentho-Pelagic
+Chaetodon_lunula,3,Microinvertivores,Sedentary,Both diurnal and nocturnal,Pairing,Bentho-Pelagic
+Chaetodon_meyeri,3,Corallivores,Sedentary,Diurnal,Pairing,Benthic
+Chaetodon_ornatissimus,3,Corallivores,Sedentary,Diurnal,Pairing,Benthic
+Chaetodon_quadrimaculatus,3,Corallivores,Sedentary,Diurnal,Pairing,Benthic
+Chaetodon_reticulatus,3,Corallivores,Sedentary,Diurnal,Pairing,Bentho-Pelagic
+Chaetodon_unimaculatus,3,Corallivores,Sedentary,Diurnal,Pairing,Benthic
+Cheilinus_trilobatus,4,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Cheilinus_undulatus,6,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Chlorurus_frontalis,5,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Chlorurus_microrhinos,5,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Chlorurus_spilurus,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Chromis_acares,1,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Chromis_agilis,2,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Chromis_margaritifer,2,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Chromis_vanderbilti,1,Planktivores,Sedentary,Diurnal,LargeG,Bentho-Pelagic
+Chromis_xanthura,3,Planktivores,Sedentary,Diurnal,LargeG,Bentho-Pelagic
+Chrysiptera_cyanea,2,Planktivores,Sedentary,Diurnal,SmallG,Benthic
+Cirrhilabrus_exquisitus,2,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Cirrhilabrus_sp,2,Microinvertivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Cirrhitichthys_falco,2,Microinvertivores,Sedentary,Diurnal,Solitary,Benthic
+Cirrhitichthys_oxycephalus,2,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Cirrhitops_hubbardi,2,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Cirrhitus_pinnulatus,4,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Cirripectes_polyzona,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,Solitary,Benthic
+Cirripectes_sp,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,Solitary,Benthic
+Cirripectes_variolosus,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,Solitary,Benthic
+Coris_aygula,5,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Coris_centralis,2,Microinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Coris_gaimard,4,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Ctenochaetus_binotatus,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Ctenochaetus_cyanocheilus,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Ctenochaetus_flavicauda,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Ctenochaetus_hawaiiensis,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,Solitary,Benthic
+Ctenochaetus_marginatus,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Ctenochaetus_sp,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Ctenochaetus_striatus,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,MedG,Benthic
+Decapterus_macarellus,4,Planktivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Pelagic
+Diodon_hystrix,6,Macroinvertivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Echidna_nebulosa,6,Crustacivores,Sedentary,Nocturnal,Solitary,Benthic
+Ecsenius_midas,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Bentho-Pelagic
+Elagatis_bipinnulata,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,MedG,Pelagic
+Enchelycore_pardalis,6,Crustacivores,Sedentary,Nocturnal,Solitary,Benthic
+Epibulus_insidiator,4,Crustacivores,Mobile within reef,Diurnal,Solitary,Benthic
+Epinephelus_fasciatus,4,Crustacivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_hexagonatus,3,Piscivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_howlandi,4,Crustacivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_macrospilos,4,Crustacivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_melanostigma,4,Crustacivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_merra,4,Crustacivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_retouti,4,Crustacivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_sp,6,Crustacivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_spilotoceps,4,Crustacivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Epinephelus_tauvina,5,Piscivores,Mobile within reef,Both diurnal and nocturnal,Solitary,Benthic
+Exallias_brevis,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,Solitary,Benthic
+Fistularia_commersonii,6,Piscivores,Mobile across reefs,Diurnal,SmallG,Pelagic
+Forcipiger_flavissimus,3,Microinvertivores,Sedentary,Diurnal,Pairing,Benthic
+Gnathodentex_aureolineatus,4,Macroinvertivores,Mobile within reef,Nocturnal,LargeG,Benthic
+Gomphosus_varius,3,Crustacivores,Mobile within reef,Diurnal,Solitary,Benthic
+Gracila_albomarginata,4,Piscivores,Mobile across reefs,Diurnal,Solitary,Bentho-Pelagic
+Gymnosarda_unicolor,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,Solitary,Pelagic
+Gymnothorax_breedeni,6,Crustacivores,Sedentary,Nocturnal,Solitary,Benthic
+Gymnothorax_flavimarginatus,6,Piscivores,Sedentary,Nocturnal,Solitary,Benthic
+Gymnothorax_javanicus,6,Piscivores,Sedentary,Nocturnal,Solitary,Benthic
+Gymnothorax_meleagris,6,Piscivores,Sedentary,Nocturnal,Solitary,Benthic
+Gymnothorax_sp,6,Crustacivores,Sedentary,Nocturnal,Solitary,Benthic
+Halichoeres_hortulanus,3,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Halichoeres_margaritaceus,2,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Halichoeres_melasmapomus,3,Microinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Halichoeres_ornatissimus,3,Microinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Halichoeres_sp,2,Microinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Halichoeres_trimaculatus,3,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Hemigymnus_fasciatus,5,Planktivores,Mobile within reef,Diurnal,Solitary,Benthic
+Hemitaurichthys_thompsoni,3,Planktivores,Mobile within reef,Diurnal,LargeG,Pelagic
+Hipposcarus_longiceps,5,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,MedG,Benthic
+Hologymnosus_annulatus,4,Macroinvertivores,Mobile across reefs,Diurnal,Solitary,Benthic
+Hologymnosus_doliatus,5,Macroinvertivores,Mobile across reefs,Diurnal,SmallG,Benthic
+Kyphosus_cinerascens,5,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,MedG,Bentho-Pelagic
+Kyphosus_sp,5,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,MedG,Bentho-Pelagic
+Labridae,2,Microinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Labroides_bicolor,3,Microinvertivores,Sedentary,Diurnal,Pairing,Benthic
+Labroides_dimidiatus,2,Planktivores,Sedentary,Diurnal,Pairing,Benthic
+Labroides_rubrolabiatus,2,Microinvertivores,Sedentary,Diurnal,Pairing,Benthic
+Labropsis_xanthonota,2,Microinvertivores,Sedentary,Diurnal,Solitary,Benthic
+Lepidozygus_tapeinosoma,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,LargeG,Bentho-Pelagic
+Lethrinus_olivaceus,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,Solitary,Benthic
+Lutjanus_bohar,6,Crustacivores,Mobile within reef,Nocturnal,MedG,Bentho-Pelagic
+Lutjanus_gibbus,5,Crustacivores,Mobile within reef,Both diurnal and nocturnal,MedG,Benthic
+Lutjanus_kasmira,4,Crustacivores,Mobile within reef,Nocturnal,LargeG,Bentho-Pelagic
+Lutjanus_monostigma,5,Crustacivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Luzonichthys_whitleyi,1,Crustacivores,Sedentary,Diurnal,LargeG,Bentho-Pelagic
+Macropharyngodon_meleagris,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Melichthys_niger,4,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,MedG,Pelagic
+Melichthys_vidua,4,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,MedG,Pelagic
+Mobula_sp,6,Planktivores,Mobile across reefs,Nocturnal,Solitary,Pelagic
+Monotaxis_grandoculis,5,Macroinvertivores,Mobile within reef,Nocturnal,Solitary,Bentho-Pelagic
+Mulloidichthys_mimicus,4,Crustacivores,Mobile within reef,Diurnal,SmallG,Benthic
+Mulloidichthys_vanicolensis,4,Crustacivores,Mobile within reef,Diurnal,MedG,Benthic
+Myripristinae,3,Crustacivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Myripristis_adusta,4,Crustacivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Myripristis_amaena,3,Planktivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Myripristis_berndti,4,Crustacivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Myripristis_earlei,3,Crustacivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Myripristis_kuntee,3,Planktivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Myripristis_murdjan,3,Crustacivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Naso_brevirostris,5,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,LargeG,Bentho-Pelagic
+Naso_hexacanthus,5,Planktivores,Mobile across reefs,Diurnal,LargeG,Pelagic
+Naso_lituratus,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Naso_vlamingii,5,Herbivores Microvores Detritivores,Mobile across reefs,Diurnal,SmallG,Bentho-Pelagic
+Neocirrhites_armatus,2,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Neoniphon_sp,3,Crustacivores,Mobile within reef,Nocturnal,SmallG,Bentho-Pelagic
+Novaculichthys_taeniourus,4,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Odonus_niger,4,Macroinvertivores,Mobile across reefs,Diurnal,MedG,Pelagic
+Ostorhinchus_angustatus,2,Microinvertivores,Sedentary,Nocturnal,SmallG,Benthic
+Ostorhinchus_apogonoides,2,Planktivores,Sedentary,Nocturnal,Pairing,Bentho-Pelagic
+Ostracion_meleagris,3,Sessile invertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Oxycheilinus_unifasciatus,4,Crustacivores,Mobile within reef,Diurnal,SmallG,Benthic
+Paracirrhites_arcatus,3,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Paracirrhites_forsteri,3,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Paracirrhites_hemistictus,3,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Paracirrhites_xanthus,2,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Parupeneus_cyclostomus,5,Crustacivores,Mobile within reef,Diurnal,Solitary,Benthic
+Parupeneus_insularis,3,Crustacivores,Mobile within reef,Diurnal,SmallG,Benthic
+Parupeneus_multifasciatus,4,Crustacivores,Mobile within reef,Diurnal,SmallG,Benthic
+Pempheris_oualensis,3,Microinvertivores,Sedentary,Nocturnal,MedG,Bentho-Pelagic
+Pervagor_janthinosoma,2,Sessile invertivores,Sedentary,Diurnal,Solitary,Benthic
+Pervagor_marginalis,1,Sessile invertivores,Sedentary,Diurnal,Solitary,Benthic
+Pervagor_sp,2,Sessile invertivores,Sedentary,Diurnal,Solitary,Benthic
+Plagiotremus_rhinorhynchos,2,Planktivores,Sedentary,Diurnal,SmallG,Benthic
+Plagiotremus_tapeinosoma,3,Crustacivores,Mobile across reefs,Nocturnal,MedG,Bentho-Pelagic
+Plectroglyphidodon_dickii,3,Crustacivores,Mobile within reef,Nocturnal,Solitary,Bentho-Pelagic
+Plectroglyphidodon_imparipennis,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Plectroglyphidodon_johnstonianus,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Plectroglyphidodon_phoenixensis,3,Crustacivores,Sedentary,Nocturnal,Solitary,Benthic
+Pogonoperca_punctata,2,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Pomacanthus_imperator,4,Sessile invertivores,Sedentary,Diurnal,Solitary,Benthic
+Pomacentridae,2,Planktivores,Sedentary,Diurnal,SmallG,Benthic
+Pomacentrus_coelestis,2,Planktivores,Sedentary,Diurnal,MedG,Benthic
+Priacanthus_sp,3,Crustacivores,Mobile across reefs,Nocturnal,MedG,Bentho-Pelagic
+Pseudanthias_bartlettorum,2,Crustacivores,Sedentary,Diurnal,LargeG,Bentho-Pelagic
+Pseudanthias_dispar,2,Crustacivores,Sedentary,Diurnal,LargeG,Bentho-Pelagic
+Pseudanthias_olivaceus,2,Crustacivores,Sedentary,Diurnal,LargeG,Bentho-Pelagic
+Pseudanthias_pascalus,3,Crustacivores,Sedentary,Diurnal,LargeG,Bentho-Pelagic
+Pseudobalistes_flavimarginatus,5,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Pseudocheilinus_evanidus,2,Planktivores,Sedentary,Diurnal,Solitary,Benthic
+Pseudocheilinus_hexataenia,2,Planktivores,Sedentary,Diurnal,SmallG,Benthic
+Pseudocheilinus_octotaenia,2,Planktivores,Sedentary,Diurnal,Solitary,Benthic
+Pseudocheilinus_tetrataenia,2,Planktivores,Sedentary,Diurnal,Solitary,Benthic
+Pseudocoris_heteroptera,3,Microinvertivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Pseudodax_moluccanus,4,Macroinvertivores,Mobile within reef,Diurnal,Solitary,Benthic
+Ptereleotris_evides,2,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Ptereleotris_zebra,2,Planktivores,Sedentary,Diurnal,MedG,Bentho-Pelagic
+Pterocaesio_tile,4,Planktivores,Mobile across reefs,Diurnal,LargeG,Pelagic
+Rhinecanthus_rectangulus,4,Microinvertivores,Sedentary,Diurnal,Solitary,Benthic
+Sargocentron_caudimaculatum,3,Crustacivores,Mobile within reef,Nocturnal,Solitary,Bentho-Pelagic
+Sargocentron_microstoma,3,Crustacivores,Mobile within reef,Nocturnal,Solitary,Bentho-Pelagic
+Sargocentron_sp,3,Crustacivores,Mobile within reef,Nocturnal,Solitary,Bentho-Pelagic
+Sargocentron_spiniferum,4,Crustacivores,Mobile within reef,Nocturnal,Solitary,Bentho-Pelagic
+Sargocentron_tiere,4,Crustacivores,Mobile within reef,Nocturnal,Solitary,Bentho-Pelagic
+Scaridae,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Scarus_altipinnis,5,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,LargeG,Benthic
+Scarus_festivus,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,Solitary,Benthic
+Scarus_forsteni,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,Solitary,Benthic
+Scarus_frenatus,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,Solitary,Benthic
+Scarus_niger,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,Solitary,Benthic
+Scarus_oviceps,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,Solitary,Benthic
+Scarus_psittacus,4,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,MedG,Benthic
+Scarus_rubroviolaceus,5,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Scarus_tricolor,3,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,Solitary,Benthic
+Scomberoides_lysan,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Pelagic
+Scorpaenopsis_sp,3,Crustacivores,Sedentary,Nocturnal,Solitary,Benthic
+Sebastapistes_cyanostigma,2,Crustacivores,Sedentary,Nocturnal,Solitary,Benthic
+Serranidae,2,Crustacivores,Sedentary,Diurnal,Solitary,Benthic
+Sphyraena_barracuda,6,Piscivores,Mobile across reefs,Nocturnal,SmallG,Pelagic
+Sphyraena_qenie,6,Piscivores,Mobile across reefs,Nocturnal,MedG,Pelagic
+Sphyrna_lewini,6,Piscivores,Mobile across reefs,Nocturnal,Solitary,Pelagic
+Stegastes_albifasciatus,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Stegastes_aureus,2,Planktivores,Sedentary,Diurnal,SmallG,Benthic
+Stegastes_fasciolatus,3,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Stegastes_lividus,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,MedG,Benthic
+Stegastes_nigricans,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,MedG,Benthic
+Stegastes_sp,2,Herbivores Microvores Detritivores,Sedentary,Diurnal,SmallG,Benthic
+Stethojulis_bandanensis,3,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Sufflamen_bursa,3,Macroinvertivores,Sedentary,Diurnal,Solitary,Benthic
+Sufflamen_chrysopterum,4,Microinvertivores,Sedentary,Diurnal,Solitary,Benthic
+Taeniurops_meyeni,6,Piscivores,Mobile across reefs,Nocturnal,Solitary,Benthic
+Thalassoma_amblycephalum,3,Microinvertivores,Mobile within reef,Diurnal,SmallG,Bentho-Pelagic
+Thalassoma_hardwicke,3,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Thalassoma_lutescens,4,Macroinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Thalassoma_purpureum,4,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Thalassoma_quinquevittatum,3,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Thalassoma_sp,3,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Thalassoma_trilobatum,4,Microinvertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Trachinotus_baillonii,5,Piscivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Pelagic
+Trachinotus_blochii,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Pelagic
+Triaenodon_obesus,6,Piscivores,Mobile across reefs,Nocturnal,Solitary,Bentho-Pelagic
+Tylosurus_crocodilus,6,Piscivores,Mobile across reefs,Both diurnal and nocturnal,SmallG,Pelagic
+Valenciennea_strigata,3,Planktivores,Sedentary,Diurnal,Pairing,Benthic
+Variola_louti,6,Piscivores,Mobile within reef,Diurnal,Solitary,Benthic
+Xanthichthys_auromarginatus,4,Planktivores,Mobile across reefs,Diurnal,MedG,Bentho-Pelagic
+Xanthichthys_caeruleolineatus,4,Planktivores,Mobile across reefs,Diurnal,MedG,Bentho-Pelagic
+Zanclus_cornutus,3,Sessile invertivores,Mobile within reef,Diurnal,SmallG,Benthic
+Zebrasoma_rostratum,3,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
+Zebrasoma_scopas,3,Herbivores Microvores Detritivores,Mobile within reef,Diurnal,SmallG,Benthic
